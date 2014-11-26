@@ -9,5 +9,5 @@ Team
 * Jihoon Park
 * Jooyeon Maeng
 * Jinwoo Lee
-
-Cosmos, Inc.
+* Hanjae Lee
+* Dongju Jang
