@@ -104,7 +104,7 @@
   - If 10,000 private repositories, USD $10,000
 * Selling a LXC Cloud Storage for Enterprise
   - At least USD $5,000 per a data center per a month
-  - It depends on a scale
+  - It depends on a scale.
 
 # Team
 * Founders
@@ -115,7 +115,7 @@
   - David Lonjon (Former Senior Software Engineer at Enswers)
   - Nikolay Dubina (Former Senior Research Engineer at Enswers)
   - Jihoon Park (Former Senior Software Engineer at SKPlanet, wemakeprice, Waplestore, BananaWiki)
-  - Jooyeon Maeong (Former PR at Prain Global, Waplestore)
+  - Jooyeon Maeng (Former PR at Prain Global, Waplestore)
 
 ## Financials
 
