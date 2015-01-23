@@ -115,6 +115,10 @@
   - David Lonjon (Former Senior Software Engineer at Enswers)
   - Nikolay Dubina (Former Senior Research Engineer at Enswers)
   - Jihoon Park (Former Senior Software Engineer at SKPlanet, wemakeprice, Waplestore, BananaWiki)
+  - Hanjae Lee
+  - Dongju Jang
+  - Kyle Kim
+  - Min Kim
   - Jooyeon Maeng (Former PR at Prain Global, Waplestore)
 
 ## Financials
