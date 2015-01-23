@@ -12,3 +12,7 @@
 ## Slack
 * We are using [Slack](https://slack.com) to be less busy.
 * You can only sign up to [Cosmos](https://cosmosio.slack.com) with your @cosmos.io email address.
+
+## IRC
+* We have a public irc.freenode.net channel. Please visit to [#cosmos](https://webchat.freenode.net/?channels=cosmos).
+* We have a public irc.ozinger.org channel. Please visit to #cosmos.
