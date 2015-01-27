@@ -16,3 +16,6 @@
 ## IRC
 * We have a public irc.freenode.net channel. Please visit to [#cosmos](https://webchat.freenode.net/?channels=cosmos).
 * We have a public irc.ozinger.org channel. Please visit to #cosmos.
+
+## AWS
+* You need to ask your AWS IAM sign-in credentials. Please contact to [Graham Lee](mailto:ghmlee@cosmos.io).
