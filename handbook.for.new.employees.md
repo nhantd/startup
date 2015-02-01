@@ -19,3 +19,6 @@
 
 ## AWS
 * You need to ask your AWS IAM sign-in credentials. Please contact to [Graham Lee](mailto:ghmlee@cosmos.io).
+
+## drone.io
+* If you are working at the DevOps team, you probably need permissions of drone.io repositories for your projects. Please don't hesitate contact to [DevOps](mailto:devops@cosmos.io).
