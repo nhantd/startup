@@ -22,3 +22,6 @@
 
 ## drone.io
 * If you are working at the DevOps team, you probably need permissions of drone.io repositories for your projects. Please don't hesitate to contact to [DevOps](mailto:devops@cosmos.io).
+
+## Sentry
+* If you are working at the DevOps team, you probably need permissions of the Cosmos team for Sentry. Please don't hesitate to contact to [DevOps](mailto:devops@cosmos.io).
