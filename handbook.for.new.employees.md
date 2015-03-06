@@ -9,6 +9,11 @@
 * If you don't have a GitHub account, please sign up on [here](https://github.com/join).
 * If you don't have any permissions to access [Cosmos](https://github.com/cosmos-io), please contact to [Graham Lee](mailto:ghmlee@cosmos.io).
 
+## BitBucket
+* We have a BitBucket organization and have private projects. You should use BitBucket to maintain our private projects.
+* If you don't have a BitBucket account, please sign up on [here](https://bitbucket.org/account/signup/).
+* If you don't have any permissions to access [Cosmos](https://bitbucket.org/cosmosio), please contact to [Graham Lee](mailto:ghmlee@cosmos.io).
+
 ## Slack
 * We are using [Slack](https://slack.com) to be less busy.
 * You can only sign up to [Cosmos](https://cosmosio.slack.com) with your @cosmos.io email address.
