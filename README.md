@@ -2,22 +2,17 @@
 
 ## Company purpose
 
-* Create a Software-Defined Data Center on the LXC environment.
-* Software-Defined Data Center
-  - http://en.wikipedia.org/wiki/Software-defined_data_center
+* Create a container first monitoring system.
 * Linux Container (LXC)
-  - The LXC is an alternative of the Virtual Machine.
-  - In case of the VM, its performance is 70~80% of its host. (20~30% loss)
-  - In case of the LXC, its performance is 99% of its host. (0~1% loss)
   - http://en.wikipedia.org/wiki/LXC
 
 ## Problem
 
-* There are tons of distributed servers on several infrastructures.
+* There is no container first monitoring system.
 
 ## Solution
 
-* Create a single dashboard for tons of distributed servers.
+* Create a container first monitoring system.
 
 ## Product
 
@@ -49,7 +44,7 @@
   - Curiosity alpha
 
 ## Team
-  - [Hancheol Lee](https://github.com/ghmlee)
-  - [Jihoon Park](https://github.com/brannpark)
-  - [Hanjae Lee](https://github.com/hanjaelee)
+  - [Graham Lee](https://github.com/ghmlee)
+  - [Brann Park](https://github.com/brannpark)
+  - [Jay Lee](https://github.com/hanjaelee)
   - [Dongju Jang](https://github.com/dongjujang)
