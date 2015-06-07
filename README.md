@@ -42,9 +42,3 @@
   - Cosmos alpha
   - Telescope alpha
   - Curiosity alpha
-
-## Team
-  - [Graham Lee](https://github.com/ghmlee)
-  - [Brann Park](https://github.com/brannpark)
-  - [Jay Lee](https://github.com/hanjaelee)
-  - [Dongju Jang](https://github.com/dongjujang)
