@@ -1,4 +1,4 @@
-# Handbook for New Employees
+# Handbook for New Pioneers
 
 ## Email
 * You must have your @cosmos.io email address with Google Apps.
